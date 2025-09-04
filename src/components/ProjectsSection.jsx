@@ -9,7 +9,7 @@ const projects = [
         image: "/projects/portfolio.png",
         tags: ["React", "TailwindCSS"],
         GitHubURL: "https://github.com/AnsamJamal1/Beautiful-Portfolio.git",
-        demoUrl: "",
+        demoUrl: "https://beautiful-portfolio-two.vercel.app/",
 
 
     },
